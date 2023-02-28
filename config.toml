@@ -1,0 +1,4 @@
+baseURL = "https://newsworthy39.github.io"
+languageCode = "en-us"
+title = "newsworthy39|org"
+theme = 'ananke'
